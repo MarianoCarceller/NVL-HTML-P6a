@@ -1,0 +1,34 @@
+<!DOCUTYPE html>
+  <html>
+    <head>
+      <meta charset="utf-8">
+      <title>La Liga 2020</title>
+      <style>
+       h1{
+          border: 2px yellow;
+       }
+       chm{
+           color: blue;
+       }
+       uef{
+           color: orange;
+       }
+      </style>
+    </head>
+    <body>
+      <h1>La Liga 2020</h1>
+      <img scr="La-liga-logo.jpg" high=50px" width+347px" border="1px solid red">
+      <ol>
+        <il><strong>1.</strong> Barcelon      <chm>58 pts.</chm></il>
+        <il><strong>2.</strong> R. Madrid     <chm>56 pts.</chm></il>
+        <il><strong>3.</strong> Sevilla       <chm>47 pts.</chm></il>
+        <il><strong>4.</strong> R. Sociedad   <chm>46 pts.</chm></il>
+        <il><strong>5.</strong> Getafe        <uef>46 pts.</uef></il>
+        <il><strong>6.</strong> Atl. Madrid   <uef>45 pts.</uef></il>
+        <il><strong>7.</strong> Valencia      42 pts.</il>
+        <il><strong>8.</strong> Villarreal    38 pts.</il>
+        <il><strong>9.</strong> Granada       38 pts></il>
+        <il><strong>10.</strong> Athletic Club 37 pts></il>
+      </ol>
+    </body>
+  </html>
